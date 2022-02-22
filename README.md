@@ -41,6 +41,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 The NGINX moderation team is Hannah Neil, Libby Meren, Dave McAllister, and Roberto Cardona 
 
 ## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also influenced by the [Geek Feminism Code of Conduct](https://opensource.microsoft.com/codeofconduct/), Microsoft Open Source Code of Conduct, and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also influenced by the [Geek Feminism Code of Conduct](https://opensource.microsoft.com/codeofconduct/), [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 
