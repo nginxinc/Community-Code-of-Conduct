@@ -35,7 +35,7 @@ This Code of Conduct applies to all NGINX community spaces, both online and offl
 While this Code of Conduct applies to NGINX spaces, we still want to know if you are being harassed by a member of the NGINX community outside our spaces. We will take all good-faith reports of harassment by NGINX members seriously.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the moderation team lead, Hannah Neil, at h.neil@f5.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. NGINX community moderators are obligated to maintain confidentiality with regard to the reporter of an incident, commit to confidentiality when requested, commit to reasonable response time, and transparency around following steps. Participants asked to stop any harassing behavior are expected to comply immediately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the moderation team lead at nginx-oss-community@f5.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. NGINX community moderators are obligated to maintain confidentiality with regard to the reporter of an incident, commit to confidentiality when requested, commit to reasonable response time, and transparency around following steps. Participants asked to stop any harassing behavior are expected to comply immediately.
 
 The NGINX moderation team is Hannah Neil, Dave McAllister, and Roberto Cardona.
 
