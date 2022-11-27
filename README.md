@@ -43,7 +43,7 @@ F5’s Partner Code of Conduct supersedes this Code of Conduct when conflicting.
 The NGINX moderation team is Hannah Neil and Dave McAllister.
 
 ## Attribution
-This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also influenced by the [Geek Feminism Code of Conduct](https://opensource.microsoft.com/codeofconduct/), [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also influenced by the [Geek Feminism Code of Conduct](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/), [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/), and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3khaqqmbknx381yz0kl" alt="trackgit-views" />
