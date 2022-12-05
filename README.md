@@ -23,7 +23,7 @@ _Examples of behavior that contributes to creating a positive environment includ
 
 _Examples of behavior that is unacceptable in the NGINX community_:
 - The use of sexualized language or imagery and unwelcome sexual attention or advances
-- The use of violant language or imagery
+- The use of violent language or imagery
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission (doxxing)
